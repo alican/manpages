@@ -1,3 +1,2 @@
-# manpages
+# Manpages
 
-https://github.com/alican/manpages/wiki
